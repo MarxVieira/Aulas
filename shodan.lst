@@ -1,0 +1,21 @@
+geo
+city
+port
+country
+hostname virtua.com.br
+net /24
+
+city "" port""
+
+city "" TP-LINK
+
+city "" webcam
+
+city "" 
+
+os:"windows xp"
+os:"windows 7"
+os:"windows 10"
+os:debian
+port:21 vsftpd 2.3.4
+city:"sao paulo" port:445
